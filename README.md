@@ -6,7 +6,7 @@ management system (PostgreSQL) and build a simplified query processor that acces
 generated partitions. Functions implemented - 
 - *rangePartition(), roundRobinPartition()*
 - *roundRobinInsert(), rangeInsert()*
-- *rangeQuery(), pointQuery()
+- *rangeQuery(), pointQuery()*
 
 #### 2.
 
