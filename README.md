@@ -1,12 +1,18 @@
 ### Distributed Database Systems
 
-#### Assignment 1
+#### 1. <ins> Database Sharding </ins>
+Simulate data partitioning approaches on-top of an open source relational database
+management system (PostgreSQL) and build a simplified query processor that access data from the
+generated partitions. Functions implemented - 
+- *rangePartition(), roundRobinPartition()*
+- *roundRobinInsert(), rangeInsert()*
+- *rangeQuery(), pointQuery()
 
-#### Assignment 2
+#### 2.
 
-#### Assignment 3
+#### 3.
 
-#### Assignment 4
+#### 4.
 
-#### Assignment 5
+#### 5.
 
