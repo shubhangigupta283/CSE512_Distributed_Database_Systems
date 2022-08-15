@@ -8,7 +8,9 @@ generated partitions. Functions implemented -
 - *roundRobinInsert(), rangeInsert()*
 - *rangeQuery(), pointQuery()*
 
-#### 2.
+#### 2. <ins> Multithreaded Sort and Join </ins>
+Implement generic parallel sort and parallel join algorithms for an RDBMS. Functions implemented - 
+- *parallelSort(), parallelJoin()*
 
 #### 3.
 
