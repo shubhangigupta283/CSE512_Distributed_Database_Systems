@@ -12,7 +12,8 @@ generated partitions. Functions implemented -
 Implement generic parallel sort and parallel join algorithms for an RDBMS. Functions implemented - 
 - *parallelSort(), parallelJoin()*
 
-#### 3.
+#### 3. <ins> Map Reduce </ins>
+Write a map-reduce program using Hadoop MapReduce framework that performs equijoin on input from a file.
 
 #### 4.
 
