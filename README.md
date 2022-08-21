@@ -15,7 +15,10 @@ Implement generic parallel sort and parallel join algorithms for an RDBMS. Funct
 #### 3. <ins> Map Reduce </ins>
 Write a map-reduce program using Hadoop MapReduce framework that performs equijoin on input from a file.
 
-#### 4.
+#### 4. <ins> Hotspot Analysis </ins>
+- Analyzed NYC taxi trip data on Apache spark distributed system running on HDFS. 
+- Performed geospatial data analysis using Spark SQL by performing point query, range query, Hot zone, and Hot cell analysis.
+
 
 #### 5.
 
