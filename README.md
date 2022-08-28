@@ -20,5 +20,7 @@ Write a map-reduce program using Hadoop MapReduce framework that performs equijo
 - Performed geospatial data analysis using Spark SQL by performing point query, range query, Hot zone, and Hot cell analysis.
 
 
-#### 5.
-
+#### 5. <ins> NoSQL database </ins>
+Perform some textual and spatial searching on MongoDB. Functions implemeted -
+- *FindBusinessBasedOnCity(cityToSearch, saveLocation1, collection)*
+- *FindBusinessBasedOnLocation(categoriesToSearch, myLocation, maxDistance, saveLocation2, collection)*
